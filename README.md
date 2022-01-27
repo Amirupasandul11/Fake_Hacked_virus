@@ -1,5 +1,8 @@
 # Fake_Hacked_virus
---
+
+-----------------------------------------------------------------------
+
+```
 do
 x=msgbox("Press OK to increase your internet speed.",0+48,"Internet provider")
 x=msgbox("Press OK to grant permission.",0+48,"Internet provider")
@@ -13,3 +16,5 @@ x=msgbox("2",0+48,"Windows Security - Virus Found -")
 x=msgbox("3 - Hacking is complete -",0+48,"Windows Security - Virus Found -")
 x=msgbox("Good Bye...!!!",0+48,"Windows Security - Virus Found -")
 loop
+
+```
